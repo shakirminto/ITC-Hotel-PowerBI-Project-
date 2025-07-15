@@ -15,7 +15,9 @@ Key Insights
 
 Financial Analysis:
 Revenue Generated: ₹2.01 Billion
+
 Revenue Realized: ₹1.71 Billion
+
 Revenue Leakage: ~₹0.30 Billion due to cancellations and no-shows
 
 Occupancy Analysis:
