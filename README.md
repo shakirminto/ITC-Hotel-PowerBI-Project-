@@ -22,18 +22,26 @@ Revenue Leakage: ~₹0.30 Billion due to cancellations and no-shows
 
 Occupancy Analysis:
 Average Occupancy Rate: 43.50%
+
 Weekend Occupancy: ~55% vs Weekday: ~45%
+
 Top Properties by Occupancy: ITC Blu, ITC Palace, ITC City
 
 Booking Behavior:
+
 Average Length of Stay (ALOS): 2.37 nights
+
 Booking Lead Time: 3.71 days
+
 Revenue Peaks: Bookings made within 3–7 days of stay
 
 Cancellation Trends:
 Overall Cancellation Rate: 24.83%
+
 Revenue Lost due to Cancellations: ₹199.18 Million
+
 High-Risk Platform: “Others”, Logtrip, Makeyourtrip
+
 High-Risk Cities: Pune and Hyderabad
 
 Recommendations:
@@ -48,9 +56,13 @@ Diversify away from high-risk platforms and enhance direct booking channels.
 Tools & Technologies:
 
 Power BI Desktop
+
 DAX (Data Analysis Expressions)
+
 Data Modeling & Relationships
+
 Interactive Dashboards
+
 Excel/CSV Files (source data)
 
 
