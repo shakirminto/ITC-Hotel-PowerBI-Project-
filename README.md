@@ -4,11 +4,13 @@ This project provides an end-to-end business intelligence solution for analyzing
 
 Project Objective: 
 
+
 Understand revenue generation vs realization trends.
 Analyze occupancy rates and booking behavior.
 Identify high-risk booking platforms and cities.
 Assess the financial impact of cancellations.
 Provide actionable insights to support strategic decisions in revenue management and operations.
+
 
 Key Insights
 
@@ -36,6 +38,7 @@ Booking Lead Time: 3.71 days
 Revenue Peaks: Bookings made within 3–7 days of stay
 
 Cancellation Trends:
+
 Overall Cancellation Rate: 24.83%
 
 Revenue Lost due to Cancellations: ₹199.18 Million
@@ -44,7 +47,9 @@ High-Risk Platform: “Others”, Logtrip, Makeyourtrip
 
 High-Risk Cities: Pune and Hyderabad
 
+
 Recommendations:
+
 
 Promote early bookings with discount incentives.
 Target elite room category through upselling and packages.
@@ -53,7 +58,9 @@ Analyze and optimize underperforming properties like ITC Seasons.
 Stabilize weekend occupancy spikes with flexible pricing strategies.
 Diversify away from high-risk platforms and enhance direct booking channels.
 
+
 Tools & Technologies:
+
 
 Power BI Desktop
 
